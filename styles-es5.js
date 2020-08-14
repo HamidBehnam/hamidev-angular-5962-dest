@@ -18,7 +18,7 @@
 
     exports.push([module.i, "/* You can add global styles to this file, and also import other style files */", "", {
       "version": 3,
-      "sources": ["/var/lib/jenkins/workspace/_mobile-dev-env-angular-2_master/src/styles.scss"],
+      "sources": ["/var/lib/jenkins/workspace/dev-env-angular_dev-hamid-081322/src/styles.scss"],
       "names": [],
       "mappings": "AAAA,8EAAA",
       "file": "styles.scss",
@@ -464,7 +464,7 @@
   /***/
   function _(module, exports, __webpack_require__) {
     module.exports = __webpack_require__(
-    /*! /var/lib/jenkins/workspace/_mobile-dev-env-angular-2_master/src/styles.scss */
+    /*! /var/lib/jenkins/workspace/dev-env-angular_dev-hamid-081322/src/styles.scss */
     "./src/styles.scss");
     /***/
   }
